@@ -1,6 +1,7 @@
-# [Readmore.js V3 alpha](https://github.com/jedfoster/Readmore.js/tree/version-3.0)
+**Forked to resolve two lingering issues with the original repository:**
 
-I am deprecating the 2.x version of Readmore.js. A new version is coming soon! [Check it out](https://github.com/jedfoster/Readmore.js/tree/version-3.0) and help me test it!
+1. [jedfoster/Readmore.js issue #229](https://github.com/jedfoster/Readmore.js/issues/229)
+2. [jedfoster/Readmore.js PR #225](https://github.com/jedfoster/Readmore.js/pull/225)
 
 ---
 
